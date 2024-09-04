@@ -88,7 +88,9 @@ Este trecho de código adiciona um efeito de escala quando o usuário passa o mo
 
 1.Clone o repositório:
     ```bash
+    
           git clone https://github.com/BrendonSant/1_Project_Web.git
+          
 2.Abra o arquivo `index.html` em um navegador para visualizar a página.
 
 ## Conclusão
